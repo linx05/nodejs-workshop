@@ -1,0 +1,8 @@
+.cart-item-image {
+    max-height: 100px;
+}
+
+.quantity {
+    padding-top: 20px;
+    font-weight: 500;
+}

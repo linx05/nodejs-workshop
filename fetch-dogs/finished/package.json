@@ -1,12 +1,10 @@
 {
-  "name": "modules-2",
+  "name": "fetch-dogs",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "es6-promise": "^4.2.6",
-    "fetch": "^1.1.0",
-    "isomorphic-fetch": "^2.2.1",
-    "lodash": "^4.17.11"
+    "isomorphic-fetch": "^2.2.1"
   }
 }
