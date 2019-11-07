@@ -3,6 +3,7 @@
 ## Agenda
 
 ### What's...
+
 - JavaScript
 - Node.js
 - Runtime
@@ -24,12 +25,11 @@ We'll create our own CommonJS module for reading the files in a directory and fi
 #### NPM what? (fetch-dogs)
 
 We'll be taking a look at `npm` module repository and how we can use it to extend the functionality of our applications.
-We are going to install the `polimorphic-fetch` package and query the [Dog API](https://dog.ceo/dog-api/) to fetch ourselves some dogs 🐶. 
+We are going to install the `isomorphic-fetch` package and query the [Dog API](https://dog.ceo/dog-api/) to fetch ourselves some dogs 🐶.
 
 ### Lets make an create an API (shopping-cart)
 
 [Express](https://expressjs.com) is Node.js most used framework. We'll be taking a look at how to use it to create a full fletched API server and creating the server side of a shopping cart application.
-
 
 ### Let's save that stuff (shopping-cart-mongodb)
 

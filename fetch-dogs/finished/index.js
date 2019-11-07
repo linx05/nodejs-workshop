@@ -1,8 +1,8 @@
-const fetch = require('isomorphic-fetch');
+const fetch = require('isomorphic-fetch')
 
 // The Dog API Documentation: https://docs.thedogapi.com
 let baseDogAPIUrl = 'https://api.thedogapi.com/v1/images/search'
-const breed = process.argv[2];
+const breed = process.argv[2]
 
 let url = baseDogAPIUrl;
 if (breed) {
